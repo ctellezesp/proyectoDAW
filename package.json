@@ -51,6 +51,7 @@
     "node": "6.* || 8.* || >= 10.*"
   },
   "dependencies": {
-    "materialize": "^1.0.0"
+    "materialize": "^1.0.0",
+    "materialize-css": "^1.0.0-rc.2"
   }
 }
